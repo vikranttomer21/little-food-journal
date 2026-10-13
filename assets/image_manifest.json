@@ -1,0 +1,1771 @@
+{
+  "notice": "Genuine food photography sourced from verified Wikimedia Commons media with documented licenses and photographers. Dishes without a verified photograph use an elegant restrained cream fallback card with dish details.",
+  "images": {
+    "protein_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "chocolate_banana_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "apple_cinnamon_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "overnight_oats_nuts": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "mango_oats_smoothie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "strawberry_banana_smoothie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/strawberry_banana_smoothie.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Strawberry_smoothie.jpg/960px-Strawberry_smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Strawberry_smoothie.jpg",
+      "photographer": "Ashrafi19",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Ashrafi19 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chocolate_pb_smoothie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "banana_walnut_smoothie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "smoothie_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "yogurt_granola_fruit_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/yogurt_parfait.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yogurt_parfait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Yogurt_parfait.jpg",
+      "photographer": "Fatimah Bello",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Fatimah Bello (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "pb_banana_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pb_banana_toast.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg/960px-Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg",
+      "photographer": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Tony Webster (CC BY 2.0), via Wikimedia Commons"
+    },
+    "honey_banana_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pb_banana_toast.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg/960px-Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg",
+      "photographer": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Tony Webster (CC BY 2.0), via Wikimedia Commons"
+    },
+    "paneer_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "cheese_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "potato_cheese_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "pizza_style_cheese_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "paneer_tikka_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "mushroom_cheese_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "mexican_bean_cheese_toastie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "garlic_cheese_bread_yogurt_dip": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "paneer_sandwich_yogurt_dressing": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "aloo_paratha": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/aloo_paratha.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ALOO_PARATHA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:ALOO_PARATHA.jpg",
+      "photographer": "ANJANA GAUTAM",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by ANJANA GAUTAM (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_paratha": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_paratha.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Paneer_Paratha.jpg/960px-Paneer_Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paneer_Paratha.jpg",
+      "photographer": "Akshay Sanjay Agrawal",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Akshay Sanjay Agrawal (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "cheese_aloo_paratha": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/aloo_paratha.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ALOO_PARATHA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:ALOO_PARATHA.jpg",
+      "photographer": "ANJANA GAUTAM",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by ANJANA GAUTAM (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "gobi_paratha_yogurt": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paratha.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Paratha.jpg/960px-Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paratha.jpg",
+      "photographer": "Testmaskara",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Testmaskara (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "aloo_tikki_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_bhurji_roll": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "potato_cheese_quesadilla": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cheese_quesadilla.jpg/960px-Cheese_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_quesadilla.jpg",
+      "photographer": "Corn cheese",
+      "licence": "CC0",
+      "attribution": "Photo by Corn cheese (CC0), via Wikimedia Commons"
+    },
+    "rajma_cheese_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "sweet_corn_paneer_roll": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "homemade_potato_hash_cheese": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/crispy_potato_wedges.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Potato_wedges.jpg/960px-Potato_wedges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Potato_wedges.jpg",
+      "photographer": "Raj1818913",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Raj1818913 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dahi_aloo_chaat": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dahi_aloo_chaat.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Dahi_Puri.jpg/960px-Dahi_Puri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dahi_Puri.jpg",
+      "photographer": "Gannu03",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gannu03 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "fruit_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "banana_milkshake_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "fruit_yogurt_smoothie_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/yogurt_parfait.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yogurt_parfait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Yogurt_parfait.jpg",
+      "photographer": "Fatimah Bello",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Fatimah Bello (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "grilled_veg_cheese_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "mini_paneer_pizza_toast": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "creamy_pb_oats": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "banana_date_smoothie": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "potato_paneer_breakfast_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "rajma_chawal": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/rajma_chawal.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rajma_Chawal.jpg/960px-Rajma_Chawal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Rajma_Chawal.jpg",
+      "photographer": "Ash7786",
+      "licence": "CC BY 3.0",
+      "attribution": "Photo by Ash7786 (CC BY 3.0), via Wikimedia Commons"
+    },
+    "chole_chawal": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chole_chawal.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Chole_Chawal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chole_Chawal.jpg",
+      "photographer": "Prarthita Jain",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Prarthita Jain (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dal_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Chicken_Khana_1.jpg/960px-Chicken_Khana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Khana_1.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dal_roti": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_roti.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Dal_Roti.jpg/960px-Dal_Roti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dal_Roti.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "kadhi_chawal": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/kadhi_chawal.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kadhi_Chawal.jpg/960px-Kadhi_Chawal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kadhi_Chawal.jpg",
+      "photographer": "Barthateslisa",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Barthateslisa (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "khichdi": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/khichdi.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Khichdi.jpg/960px-Khichdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Khichdi.jpg",
+      "photographer": "dodo_anji",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Photo by dodo_anji (CC BY-SA 2.0), via Wikimedia Commons"
+    },
+    "chole_kulche": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chole_kulche.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Chole_bhature.jpg/960px-Chole_bhature.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chole_bhature.jpg",
+      "photographer": "Kanikatwl",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Kanikatwl (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "aloo_matar_roti": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/matar_paneer.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Matar_Paneer.jpg/960px-Matar_Paneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Matar_Paneer.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "jeera_aloo_dal_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Chicken_Khana_1.jpg/960px-Chicken_Khana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Khana_1.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_bhurji": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_bhurji.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paneer_Bhurji.jpg/960px-Paneer_Bhurji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paneer_Bhurji.jpg",
+      "photographer": "Mradulkapoor",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Mradulkapoor (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "mild_shahi_paneer_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/shahi_paneer.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Shahi_Paneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Shahi_Paneer.jpg",
+      "photographer": "Twit Rajat",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Twit Rajat (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "matar_paneer_roti": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/matar_paneer.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Matar_Paneer.jpg/960px-Matar_Paneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Matar_Paneer.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dal_makhani_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_makhani.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dal_Makhani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dal_Makhani.jpg",
+      "photographer": "Charles Haynes",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Photo by Charles Haynes (CC BY-SA 2.0), via Wikimedia Commons"
+    },
+    "veg_pulao_raita": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "aloo_paratha_yogurt": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/aloo_paratha.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ALOO_PARATHA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:ALOO_PARATHA.jpg",
+      "photographer": "ANJANA GAUTAM",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by ANJANA GAUTAM (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_kathi_roll": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "cheese_corn_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "aloo_tikki_burger": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_burger.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Veggie_burger.jpg/960px-Veggie_burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Veggie_burger.jpg",
+      "photographer": "User:Semanticer",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by User:Semanticer (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "rajma_patty_burger": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_burger.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Veggie_burger.jpg/960px-Veggie_burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Veggie_burger.jpg",
+      "photographer": "User:Semanticer",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by User:Semanticer (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "paneer_club_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "crispy_potato_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_quesadilla_lunch": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cheese_quesadilla.jpg/960px-Cheese_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_quesadilla.jpg",
+      "photographer": "Corn cheese",
+      "licence": "CC0",
+      "attribution": "Photo by Corn cheese (CC0), via Wikimedia Commons"
+    },
+    "cheesy_bean_burrito": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chole_yogurt_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "tandoori_paneer_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "potato_cheese_tortilla_roll": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "sweet_corn_paneer_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "falafel_wrap": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/falafel_wrap.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Falafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Falafel.jpg",
+      "photographer": "NB",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by NB (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "grilled_cheese_tomato_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "veg_fried_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_fried_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "garlic_butter_veg_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chilli_garlic_paneer_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "creamy_mushroom_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "tomato_cheese_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/tomato_cheese_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Homemade_Tomato_sauce_pasta_2.jpg/960px-Homemade_Tomato_sauce_pasta_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Homemade_Tomato_sauce_pasta_2.jpg",
+      "photographer": "Geoffreyrabbit",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Geoffreyrabbit (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "white_sauce_veg_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "macaroni_cheese_veg": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/mac_and_cheese_veg.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Macaroni_and_cheese.jpg/960px-Macaroni_and_cheese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Macaroni_and_cheese.jpg",
+      "photographer": "Wikimedia Contributor",
+      "licence": "CC BY-SA 2.5",
+      "attribution": "Photo by Wikimedia Contributor (CC BY-SA 2.5), via Wikimedia Commons"
+    },
+    "paneer_pesto_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "veg_burrito_rice_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "corn_cheese_rice_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_teriyaki_rice_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "schezwan_veg_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "mild_peanut_sauce_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_rice_bowl_veg": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chole_potato_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chole_chawal.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Chole_Chawal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chole_Chawal.jpg",
+      "photographer": "Prarthita Jain",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Prarthita Jain (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dal_chawal_aloo_jeera": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Chicken_Khana_1.jpg/960px-Chicken_Khana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Khana_1.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "homemade_paneer_burrito": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "veg_paneer_fried_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "grilled_paneer_sandwich_wedges": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_sandwich.jpg",
+      "photographer": "SohanDsouza at en.wikipedia",
+      "licence": "Public domain",
+      "attribution": "Photo by SohanDsouza at en.wikipedia (Public domain), via Wikimedia Commons"
+    },
+    "rajma_wrap_yogurt_sauce": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "creamy_corn_paneer_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "mild_veg_manchurian_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_manchurian.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Vegetable_manchurian.jpg/960px-Vegetable_manchurian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_manchurian.jpg",
+      "photographer": "Msec109",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Msec109 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_sweet_corn_pulao": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "stuffed_paneer_paratha_curd": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_paratha.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Paneer_Paratha.jpg/960px-Paneer_Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paneer_Paratha.jpg",
+      "photographer": "Akshay Sanjay Agrawal",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Akshay Sanjay Agrawal (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "tandoori_chicken": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/tandoori_chicken.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tandoori_Chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tandoori_Chicken.jpg",
+      "photographer": "Quadell",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by Quadell (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "chicken_momos": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chicken_momos.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Chicken_Momo-MB46.jpg/960px-Chicken_Momo-MB46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Momo-MB46.jpg",
+      "photographer": "Rajeeb Dutta",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Rajeeb Dutta (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "momos_veg": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/momos_veg.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Folk_Cuisine_of_India_-_Steamed_Momos.jpg/960px-Folk_Cuisine_of_India_-_Steamed_Momos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Folk_Cuisine_of_India_-_Steamed_Momos.jpg",
+      "photographer": "TAPAS KUMAR HALDER",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by TAPAS KUMAR HALDER (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_momos": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/momos_veg.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Folk_Cuisine_of_India_-_Steamed_Momos.jpg/960px-Folk_Cuisine_of_India_-_Steamed_Momos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Folk_Cuisine_of_India_-_Steamed_Momos.jpg",
+      "photographer": "TAPAS KUMAR HALDER",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by TAPAS KUMAR HALDER (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "pan_fried_veg_dumplings": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pan_fried_veg_dumplings.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gyoza.jpg/960px-Gyoza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Gyoza.jpg",
+      "photographer": "Douglas Paul Perkins",
+      "licence": "CC BY 3.0",
+      "attribution": "Photo by Douglas Paul Perkins (CC BY 3.0), via Wikimedia Commons"
+    },
+    "chilli_garlic_paneer": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chilli_garlic_paneer.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Chilly_Paneer_01.jpg/960px-Chilly_Paneer_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chilly_Paneer_01.jpg",
+      "photographer": "Marajozkee",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Marajozkee (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "crispy_air_fried_paneer_bites": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_tikka.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+      "photographer": "PallaviKhale",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by PallaviKhale (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "veg_manchurian_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_manchurian.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Vegetable_manchurian.jpg/960px-Vegetable_manchurian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_manchurian.jpg",
+      "photographer": "Msec109",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Msec109 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chilli_potato_veg_fried_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "homemade_veg_spring_rolls": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/spring_rolls.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Spring_rolls.jpg/960px-Spring_rolls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Spring_rolls.jpg",
+      "photographer": "Earlyspatz",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Earlyspatz (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "crispy_corn_fried_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "sesame_garlic_paneer_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/veg_fried_rice.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vegetable_Fried_Rice.jpg/960px-Vegetable_Fried_Rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg",
+      "photographer": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Gaurav Dhwaj Khadka (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "homemade_burger": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_burger.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Veggie_burger.jpg/960px-Veggie_burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Veggie_burger.jpg",
+      "photographer": "User:Semanticer",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by User:Semanticer (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "aloo_tikki_burger_dinner": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_burger.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Veggie_burger.jpg/960px-Veggie_burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Veggie_burger.jpg",
+      "photographer": "User:Semanticer",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by User:Semanticer (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "crispy_cheese_potato_burger": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_burger.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Veggie_burger.jpg/960px-Veggie_burger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Veggie_burger.jpg",
+      "photographer": "User:Semanticer",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by User:Semanticer (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "homemade_margherita_pizza": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/margherita_pizza.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pizza_Margherita.jpg/960px-Pizza_Margherita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita.jpg",
+      "photographer": "Nicholas Gemini",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Nicholas Gemini (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_tikka_pizza": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/margherita_pizza.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pizza_Margherita.jpg/960px-Pizza_Margherita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita.jpg",
+      "photographer": "Nicholas Gemini",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Nicholas Gemini (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "garlic_bread_creamy_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "mac_and_cheese_veg": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/mac_and_cheese_veg.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Macaroni_and_cheese.jpg/960px-Macaroni_and_cheese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Macaroni_and_cheese.jpg",
+      "photographer": "Wikimedia Contributor",
+      "licence": "CC BY-SA 2.5",
+      "attribution": "Photo by Wikimedia Contributor (CC BY-SA 2.5), via Wikimedia Commons"
+    },
+    "potato_wedges_cheese_dip": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/crispy_potato_wedges.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Potato_wedges.jpg/960px-Potato_wedges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Potato_wedges.jpg",
+      "photographer": "Raj1818913",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Raj1818913 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_quesadilla_dinner": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cheese_quesadilla.jpg/960px-Cheese_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_quesadilla.jpg",
+      "photographer": "Corn cheese",
+      "licence": "CC0",
+      "attribution": "Photo by Corn cheese (CC0), via Wikimedia Commons"
+    },
+    "loaded_baked_potato_cheese": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/loaded_baked_potato_cheese.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/BakedPotatoWithButter.jpg/960px-BakedPotatoWithButter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:BakedPotatoWithButter.jpg",
+      "photographer": "Renee Comet (photographer)",
+      "licence": "Public domain",
+      "attribution": "Photo by Renee Comet (photographer) (Public domain), via Wikimedia Commons"
+    },
+    "cheese_corn_tortilla_pizza": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/margherita_pizza.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pizza_Margherita.jpg/960px-Pizza_Margherita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita.jpg",
+      "photographer": "Nicholas Gemini",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Nicholas Gemini (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "grilled_cheese_tomato_soup": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "air_fried_paneer_tikka_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_bhurji_rolls_dinner": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "creamy_paneer_roti": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/shahi_paneer.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Shahi_Paneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Shahi_Paneer.jpg",
+      "photographer": "Twit Rajat",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Twit Rajat (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "paneer_pulao": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "rajma_burrito_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chole_wraps_yogurt_sauce": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dal_makhani_jeera_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dal_makhani.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dal_Makhani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dal_Makhani.jpg",
+      "photographer": "Charles Haynes",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Photo by Charles Haynes (CC BY-SA 2.0), via Wikimedia Commons"
+    },
+    "veg_paneer_skewers_flatbread": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_tikka.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+      "photographer": "PallaviKhale",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by PallaviKhale (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "stuffed_potato_paneer_patties": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/air_fried_aloo_tikki.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aloo_Tikki.jpg/960px-Aloo_Tikki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki.jpg",
+      "photographer": "Amol Sinha",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amol Sinha (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "cheese_stuffed_garlic_naan": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paratha.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Paratha.jpg/960px-Paratha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Paratha.jpg",
+      "photographer": "Testmaskara",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Testmaskara (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "mild_paneer_korma_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/shahi_paneer.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Shahi_Paneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Shahi_Paneer.jpg",
+      "photographer": "Twit Rajat",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Twit Rajat (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "garlic_chicken": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/garlic_chicken.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg/960px-Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_roasted_with_garlic_olive_oil_and_black_pepper,_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg",
+      "photographer": "Daderot",
+      "licence": "CC0",
+      "attribution": "Photo by Daderot (CC0), via Wikimedia Commons"
+    },
+    "honey_garlic_chicken_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/garlic_chicken.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg/960px-Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_roasted_with_garlic_olive_oil_and_black_pepper,_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg",
+      "photographer": "Daderot",
+      "licence": "CC0",
+      "attribution": "Photo by Daderot (CC0), via Wikimedia Commons"
+    },
+    "air_fried_chicken_tikka_wraps": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/tandoori_chicken.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tandoori_Chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tandoori_Chicken.jpg",
+      "photographer": "Quadell",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by Quadell (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "chicken_cheese_quesadilla": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chicken_cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Chicken_quesadilla.jpg/960px-Chicken_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_quesadilla.jpg",
+      "photographer": "Jon Sullivan",
+      "licence": "Public domain",
+      "attribution": "Photo by Jon Sullivan (Public domain), via Wikimedia Commons"
+    },
+    "mild_chilli_chicken_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/mild_chilli_chicken_rice.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Chilli_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chilli_chicken.jpg",
+      "photographer": "Akashtyagi.arts",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Akashtyagi.arts (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "garlic_butter_chicken_potatoes": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/garlic_chicken.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg/960px-Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_roasted_with_garlic_olive_oil_and_black_pepper,_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg",
+      "photographer": "Daderot",
+      "licence": "CC0",
+      "attribution": "Photo by Daderot (CC0), via Wikimedia Commons"
+    },
+    "chicken_fried_rice": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chicken_fried_rice.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Chicken_fried_rice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_fried_rice.jpg",
+      "photographer": "Varaprasad Sidam",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Varaprasad Sidam (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "sweet_chilli_chicken_wraps": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/mild_chilli_chicken_rice.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Chilli_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chilli_chicken.jpg",
+      "photographer": "Akashtyagi.arts",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Akashtyagi.arts (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "crispy_air_fried_chicken_bites": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/garlic_chicken.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg/960px-Chicken_breast%2C_roasted_with_garlic_olive_oil_and_black_pepper%2C_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_roasted_with_garlic_olive_oil_and_black_pepper,_on_fried_rice_and_peas_with_soy_sauce_-_Massachusetts.jpg",
+      "photographer": "Daderot",
+      "licence": "CC0",
+      "attribution": "Photo by Daderot (CC0), via Wikimedia Commons"
+    },
+    "chicken_cheese_toasted_sandwich": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/chicken_cheese_toasted_sandwich.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Chicken_sandwich.jpg/960px-Chicken_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_sandwich.jpg",
+      "photographer": "Tmannya",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by Tmannya (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "paneer_corn_pasta": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/white_sauce_veg_pasta.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fettuccine_Alfredo.jpg/960px-Fettuccine_Alfredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo.jpg",
+      "photographer": "Robert Banh",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Robert Banh (CC BY 2.0), via Wikimedia Commons"
+    },
+    "homemade_paneer_calzone": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/calzone.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Calzone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Calzone.jpg",
+      "photographer": "selbst erstellt",
+      "licence": "Public domain",
+      "attribution": "Photo by selbst erstellt (Public domain), via Wikimedia Commons"
+    },
+    "veg_cheese_baked_potatoes": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/loaded_baked_potato_cheese.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/BakedPotatoWithButter.jpg/960px-BakedPotatoWithButter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:BakedPotatoWithButter.jpg",
+      "photographer": "Renee Comet (photographer)",
+      "licence": "Public domain",
+      "attribution": "Photo by Renee Comet (photographer) (Public domain), via Wikimedia Commons"
+    },
+    "paneer_tikka_rice_bowl": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_pulao.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tawa_Pulao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tawa_Pulao.jpg",
+      "photographer": "DreamyFlutura11",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by DreamyFlutura11 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "chole_cheese_quesadilla": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cheese_quesadilla.jpg/960px-Cheese_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_quesadilla.jpg",
+      "photographer": "Corn cheese",
+      "licence": "CC0",
+      "attribution": "Photo by Corn cheese (CC0), via Wikimedia Commons"
+    },
+    "paneer_garlic_bread_pizza": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/margherita_pizza.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pizza_Margherita.jpg/960px-Pizza_Margherita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita.jpg",
+      "photographer": "Nicholas Gemini",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Nicholas Gemini (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "crispy_veg_wraps": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "mild_creamy_veg_noodles": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_noodles.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hakka_Noodles.JPG/960px-Hakka_Noodles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hakka_Noodles.JPG",
+      "photographer": "Aparna Balasubramanian",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Aparna Balasubramanian (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "grilled_paneer_potato_wedges": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_tikka.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+      "photographer": "PallaviKhale",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by PallaviKhale (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "homemade_veg_cheese_burrito": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/burrito.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Burrito.jpg/960px-Burrito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Burrito.jpg",
+      "photographer": "Wotancito",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Wotancito (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "roasted_chana": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/roasted_chana.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Roasted_chickpeas.jpg/960px-Roasted_chickpeas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Roasted_chickpeas.jpg",
+      "photographer": "Fumikas Sagisavas",
+      "licence": "CC0",
+      "attribution": "Photo by Fumikas Sagisavas (CC0), via Wikimedia Commons"
+    },
+    "roasted_makhana": {
+      "verified": false,
+      "fallback": true,
+      "local_path": null,
+      "source_url": null,
+      "page_url": null,
+      "photographer": null,
+      "licence": null
+    },
+    "corn_chaat": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/corn_chaat.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Sweet_corn.jpg/960px-Sweet_corn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Sweet_corn.jpg",
+      "photographer": "Challiyil Eswaramangalath Vipin from Chalakudy, India",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Photo by Challiyil Eswaramangalath Vipin from Chalakudy, India (CC BY-SA 2.0), via Wikimedia Commons"
+    },
+    "air_fried_aloo_tikki": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/air_fried_aloo_tikki.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Aloo_Tikki.jpg/960px-Aloo_Tikki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki.jpg",
+      "photographer": "Amol Sinha",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amol Sinha (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "cheese_toast_snack": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_sandwich.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grilled_cheese_sandwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich.jpg",
+      "photographer": "Maggie Hoffman",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Maggie Hoffman (CC BY 2.0), via Wikimedia Commons"
+    },
+    "seasoned_paneer_cubes": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_tikka.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+      "photographer": "PallaviKhale",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by PallaviKhale (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "yogurt_cucumber_dip_crackers": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/hummus_pita.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Hummus.jpg/960px-Hummus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hummus.jpg",
+      "photographer": "Donovan Govan.",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by Donovan Govan. (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "homemade_popcorn": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/homemade_popcorn.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Popcorn_in_a_bowl.jpg/960px-Popcorn_in_a_bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Popcorn_in_a_bowl.jpg",
+      "photographer": "Ziongarage",
+      "licence": "CC0",
+      "attribution": "Photo by Ziongarage (CC0), via Wikimedia Commons"
+    },
+    "crispy_potato_wedges": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/crispy_potato_wedges.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Potato_wedges.jpg/960px-Potato_wedges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Potato_wedges.jpg",
+      "photographer": "Raj1818913",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Raj1818913 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "mini_veg_quesadilla": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/cheese_quesadilla.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cheese_quesadilla.jpg/960px-Cheese_quesadilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_quesadilla.jpg",
+      "photographer": "Corn cheese",
+      "licence": "CC0",
+      "attribution": "Photo by Corn cheese (CC0), via Wikimedia Commons"
+    },
+    "hummus_pita": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/hummus_pita.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Hummus.jpg/960px-Hummus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hummus.jpg",
+      "photographer": "Donovan Govan.",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Photo by Donovan Govan. (CC BY-SA 3.0), via Wikimedia Commons"
+    },
+    "cheese_fruit_plate": {
+      "verified": false,
+      "fallback": true,
+      "local_path": null,
+      "source_url": null,
+      "page_url": null,
+      "photographer": null,
+      "licence": null
+    },
+    "mini_paneer_roll": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_wrap.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kathi_Roll.jpg/960px-Kathi_Roll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kathi_Roll.jpg",
+      "photographer": "Amanwiki308",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Amanwiki308 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "banana_peanut_butter": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pb_banana_toast.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg/960px-Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg",
+      "photographer": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Tony Webster (CC BY 2.0), via Wikimedia Commons"
+    },
+    "yogurt_honey_fruit": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/yogurt_parfait.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yogurt_parfait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Yogurt_parfait.jpg",
+      "photographer": "Fatimah Bello",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Fatimah Bello (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "milk_dates": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dates_nuts.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stuffed_dates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Stuffed_dates.jpg",
+      "photographer": "Joy",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Joy (CC BY 2.0), via Wikimedia Commons"
+    },
+    "chocolate_banana_smoothie_snack": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/smoothie_toast.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Banana-smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana-smoothie.jpg",
+      "photographer": "S.C.J.Perera",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by S.C.J.Perera (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "peanut_butter_toast_snack": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pb_banana_toast.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg/960px-Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg",
+      "photographer": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Tony Webster (CC BY 2.0), via Wikimedia Commons"
+    },
+    "apple_peanut_butter": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/pb_banana_toast.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg/960px-Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_Toast_and_Peanut_Butter_Toast_with_Strawberries_and_Bananas.jpg",
+      "photographer": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Tony Webster (CC BY 2.0), via Wikimedia Commons"
+    },
+    "banana_ice_cream": {
+      "verified": false,
+      "fallback": true,
+      "local_path": null,
+      "source_url": null,
+      "page_url": null,
+      "photographer": null,
+      "licence": null
+    },
+    "fruit_milkshake": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/strawberry_banana_smoothie.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Strawberry_smoothie.jpg/960px-Strawberry_smoothie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Strawberry_smoothie.jpg",
+      "photographer": "Ashrafi19",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Ashrafi19 (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "overnight_oats_cup": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/protein_oats.jpg",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg/960px-Banana_Oatmeal_Breakfast_Bowl_%2844302857265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Banana_Oatmeal_Breakfast_Bowl_(44302857265).jpg",
+      "photographer": "Ella Olsson from Stockholm, Sweden",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Ella Olsson from Stockholm, Sweden (CC BY 2.0), via Wikimedia Commons"
+    },
+    "homemade_yogurt_parfait": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/yogurt_parfait.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yogurt_parfait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Yogurt_parfait.jpg",
+      "photographer": "Fatimah Bello",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by Fatimah Bello (CC BY-SA 4.0), via Wikimedia Commons"
+    },
+    "dates_nuts": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/dates_nuts.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stuffed_dates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Stuffed_dates.jpg",
+      "photographer": "Joy",
+      "licence": "CC BY 2.0",
+      "attribution": "Photo by Joy (CC BY 2.0), via Wikimedia Commons"
+    },
+    "warm_milk_banana": {
+      "verified": false,
+      "fallback": true,
+      "local_path": null,
+      "source_url": null,
+      "page_url": null,
+      "photographer": null,
+      "licence": null
+    },
+    "paneer_tikka": {
+      "verified": true,
+      "fallback": false,
+      "local_path": "assets/food/paneer_tikka.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Malai_Paneer_Tikka%2C_PK_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Malai_Paneer_Tikka,_PK_007.jpg",
+      "photographer": "PallaviKhale",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Photo by PallaviKhale (CC BY-SA 4.0), via Wikimedia Commons"
+    }
+  }
+}

@@ -1,0 +1,534 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400&family=DM+Serif+Display&display=swap');
+
+:root {
+  --paper: #FAF6F0;
+  --sand: #F0E8DC;
+  --card: #FFFFFF;
+  --card-tint: #F7F2EA;
+  --ink: #1F1B18;
+  --muted: #4F473E;
+  --clay: #964726;
+  --clay-light: #F7EDE7;
+  --sage: #384A32;
+  --sage-light: #EBF0E8;
+  --line: #D9CEBE;
+  --shadow: 0 4px 18px rgba(31, 27, 24, 0.07);
+  --shadow-sm: 0 2px 8px rgba(31, 27, 24, 0.05);
+}
+
+.stApp {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', 'DM Serif Display', Georgia, serif !important;
+  font-weight: 600 !important;
+  color: var(--ink);
+  letter-spacing: -0.015em;
+}
+
+[data-testid="stSidebar"] {
+  background: var(--sand);
+  border-right: 1px solid var(--line);
+}
+
+[data-testid="stSidebar"] * {
+  color: var(--ink);
+}
+
+.block-container {
+  max-width: 1140px;
+  padding-top: 2rem;
+  padding-bottom: 2.5rem;
+}
+
+.journal-header {
+  margin-bottom: 2rem;
+}
+
+.journal-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2.6rem;
+  line-height: 1.15;
+  color: var(--ink);
+  margin: 0.2rem 0 0.5rem 0;
+}
+
+.journal-subtitle {
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.5;
+  max-width: 680px;
+}
+
+.section-label {
+  color: var(--sage);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.25rem;
+}
+
+/* Meal Cards */
+.meal-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.meal-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.meal-img-container {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--card-tint);
+  position: relative;
+}
+
+.meal-img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.meal-placeholder {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(145deg, #F5ECE0 0%, #EDE1D1 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+}
+
+.meal-placeholder-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.15rem;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+.meal-placeholder-status {
+  font-size: 0.82rem;
+  color: var(--ink);
+  font-weight: 600;
+  background: #FFFFFF;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+.meal-card-body {
+  padding: 1rem 1.15rem 1.15rem;
+}
+
+.meal-badge {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--sage);
+  background: var(--sage-light);
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  margin-bottom: 0.45rem;
+  border: 1px solid rgba(56, 74, 50, 0.2);
+}
+
+.meal-badge-chicken {
+  color: var(--clay);
+  background: var(--clay-light);
+  border: 1px solid rgba(150, 71, 38, 0.25);
+}
+
+.meal-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.32rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0.2rem 0 0.4rem;
+  line-height: 1.25;
+}
+
+.meal-card-desc {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Swap Alternatives Card Grid */
+.swap-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 0.85rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.swap-card:hover {
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+
+.swap-card-body {
+  padding: 0.85rem 0.95rem;
+  flex-grow: 1;
+}
+
+.swap-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0.2rem 0 0.35rem 0;
+  line-height: 1.25;
+}
+
+.swap-card-desc {
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0.5rem;
+}
+
+/* Recipe image-led cards */
+.recipe-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 1.25rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.recipe-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.recipe-card-header {
+  padding: 1rem 1.15rem 0.75rem;
+}
+
+.recipe-card-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0.2rem 0 0.35rem 0;
+  line-height: 1.25;
+}
+
+.recipe-card-meta {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.recipe-card-details {
+  background: var(--card-tint);
+  border-top: 1px solid var(--line);
+  padding: 1.15rem;
+}
+
+/* Explicit high-contrast caption and label styling */
+.stCaption, [data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] * {
+  color: #383028 !important;
+  font-size: 0.85rem !important;
+  font-weight: 500 !important;
+}
+
+label, [data-testid="stWidgetLabel"] label, [data-testid="stWidgetLabel"] p, [data-testid="stWidgetLabel"] span {
+  color: #1F1B18 !important;
+  font-weight: 600 !important;
+  font-size: 0.92rem !important;
+}
+
+[data-testid="stRadio"] label, [data-testid="stCheckbox"] label {
+  color: #1F1B18 !important;
+  font-weight: 500 !important;
+}
+
+/* Day Selector Buttons */
+.day-nav-container {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+/* Buttons */
+div.stButton > button, div.stDownloadButton > button {
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  min-height: 2.5rem;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+div.stButton > button:hover, div.stDownloadButton > button:hover {
+  border-color: var(--clay);
+  color: var(--clay);
+  background: #FFFDFC;
+}
+
+div.stButton > button:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid var(--sage) !important;
+  outline-offset: 1px;
+}
+
+/* Primary Button Styling */
+div.stButton > button[kind="primary"] {
+  background: var(--clay);
+  color: #FFFFFF;
+  border-color: var(--clay);
+}
+
+div.stButton > button[kind="primary"]:hover {
+  background: #9E5637;
+  color: #FFFFFF;
+  border-color: #9E5637;
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+  background: var(--card);
+  padding: 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow-sm);
+}
+
+[data-testid="stMetricLabel"] {
+  color: var(--muted) !important;
+  font-size: 0.85rem !important;
+}
+
+[data-testid="stMetricValue"] {
+  color: var(--ink) !important;
+  font-family: 'Playfair Display', Georgia, serif !important;
+}
+
+/* Callout and Notes */
+.callout-box {
+  background: var(--card-tint);
+  border-left: 3px solid var(--clay);
+  padding: 0.9rem 1.15rem;
+  border-radius: 0 8px 8px 0;
+  color: var(--ink);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 1.25rem 0;
+}
+
+.callout-box-sage {
+  background: var(--sage-light);
+  border-left-color: var(--sage);
+}
+
+/* Form inputs */
+input, textarea, select, [data-baseweb="select"] {
+  border-radius: 8px !important;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.75rem 0;
+}
+
+/* Mobile and Responsive Design Overhaul */
+html, body, .stApp {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+/* Tablet Breakpoint (<= 768px) */
+@media (max-width: 768px) {
+  .block-container {
+    padding-top: 1rem !important;
+    padding-left: 0.85rem !important;
+    padding-right: 0.85rem !important;
+    padding-bottom: 2rem !important;
+  }
+
+  .journal-title {
+    font-size: 1.9rem !important;
+    line-height: 1.2 !important;
+  }
+
+  .journal-subtitle {
+    font-size: 0.95rem !important;
+  }
+
+  h1 { font-size: 1.85rem !important; }
+  h2 { font-size: 1.45rem !important; }
+  h3 { font-size: 1.25rem !important; }
+  h4 { font-size: 1.08rem !important; }
+
+  /* Stack 2-column meal presentation (card on top, meal details below) */
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(2)):not(:has(> [data-testid="column"]:nth-child(3))) {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(2)):not(:has(> [data-testid="column"]:nth-child(3))) > [data-testid="column"] {
+    width: 100% !important;
+    min-width: 100% !important;
+    flex: 1 1 100% !important;
+  }
+
+  /* Stack swap cards vertically on mobile */
+  [data-testid="stHorizontalBlock"]:has(.swap-card) {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(.swap-card) > [data-testid="column"] {
+    width: 100% !important;
+    min-width: 100% !important;
+    flex: 1 1 100% !important;
+  }
+
+  /* Stack recipe cards vertically on mobile */
+  [data-testid="stHorizontalBlock"]:has(.recipe-card) {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.25rem !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(.recipe-card) > [data-testid="column"] {
+    width: 100% !important;
+    min-width: 100% !important;
+    flex: 1 1 100% !important;
+  }
+
+  /* 7-day selector row: compact, touch-friendly, single horizontal row */
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(7)) {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    gap: 3px !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(7)) > [data-testid="column"] {
+    flex: 1 1 calc(100% / 7) !important;
+    min-width: 38px !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(7)) button {
+    padding: 0.35rem 0.1rem !important;
+    font-size: 0.78rem !important;
+    min-height: 44px !important;
+    border-radius: 6px !important;
+  }
+
+  /* Minimum 44px touch targets on mobile */
+  div.stButton > button, div.stDownloadButton > button {
+    min-height: 44px !important;
+  }
+
+  [data-testid="stCheckbox"] label, [data-testid="stRadio"] label {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Responsive tables and metrics */
+  div[data-testid="stTable"], div[data-testid="stDataFrame"] {
+    overflow-x: auto !important;
+    max-width: 100% !important;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Mobile Small Devices (320px - 480px) */
+@media (max-width: 480px) {
+  .block-container {
+    padding-left: 0.65rem !important;
+    padding-right: 0.65rem !important;
+  }
+
+  .journal-title {
+    font-size: 1.65rem !important;
+  }
+
+  .meal-card-title {
+    font-size: 1.18rem !important;
+  }
+
+  .meal-card-body {
+    padding: 0.85rem 0.95rem !important;
+  }
+
+  /* 3 action buttons under meal card: compact row fitting small screens */
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(3)):not(:has(> [data-testid="column"]:nth-child(4))) {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    gap: 4px !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(3)):not(:has(> [data-testid="column"]:nth-child(4))) > [data-testid="column"] {
+    flex: 1 1 33.333% !important;
+    min-width: 0 !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(3)):not(:has(> [data-testid="column"]:nth-child(4))) button {
+    padding: 0.35rem 0.15rem !important;
+    font-size: 0.74rem !important;
+    min-height: 44px !important;
+    white-space: nowrap !important;
+    letter-spacing: -0.02em;
+  }
+
+  /* Day selector: tight spacing for 320px screens */
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(7)) {
+    gap: 2px !important;
+  }
+
+  [data-testid="stHorizontalBlock"]:has(> [data-testid="column"]:nth-child(7)) button {
+    font-size: 0.72rem !important;
+    padding: 0.3rem 0.05rem !important;
+  }
+
+  /* Callout boxes */
+  .callout-box {
+    padding: 0.75rem 0.9rem !important;
+    font-size: 0.85rem !important;
+  }
+}
+
